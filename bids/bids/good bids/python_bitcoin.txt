@@ -1,0 +1,5 @@
+Hi,
+I have great experience in implementing cryptographic algorithms from scratch in C/C++ and Python. Since bitcoin relies on using the curve SECP256K1 we can do mathematical operations on the curve, to find whether a given private key, matches with the public key (address). I can write a Python script, that will be implementing elliptic curve operations from scratch. I am very much eager to put any amount of effort or time, into this amazing project and I believe I can definitely help you within the shortest time possible. Please feel free to contact me via chat, so that we can discuss further and start working on this project right away!!!
+
+Best Regards,
+Aravind A

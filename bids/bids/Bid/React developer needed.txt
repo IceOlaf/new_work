@@ -1,0 +1,57 @@
+Dear Ben.
+
+I just read your job posting and it sounds like you need a well- experienced full stack developer who can work with you passionately.
+I recently implemented that with another client and the result was "http:\\crio.do".
+I am interested in your job and I am sure I will make your project properly.
+
+My Skills:
+- Languages: JavaScript, Node.js,TypeScript, ES6, C/C++, PHP, Python, Rust, golang
+- Frameworks: React, Next, Vue, Nuxt, Angular, Django, Express
+- Blockchain: ERC20/721/1155, Several APIs, Solidity, Vyper
+- Version Management: git
+
+Do you have a similar website so I can understand this more?
+If it seems like a good fit, we’ll schedule a call to talk.
+
+Thank you.
+Lucas Chi.
+//////////// Frontend developer  ////////////////////////
+Hi there
+
+I just read your job posting and it sounds like you need a full stack developer.
+I saw your upwork history and I think you are an excellent client.
+So I am sure if I work with you, your application will be an excellent one.
+I’d be curious to hear if you’ve tried explain your design.
+I recently implemented that with another client and the result was http://crio.do.
+
+My Skills:
+- Languages: JavaScript, Node.js,TypeScript, ES6, C/C++, PHP, Python, Rust, golang
+- Frameworks: React, Next, Vue, Nuxt, Angular, Django, Express
+- Blockchain: ERC20/721/1155, Several APIs, Solidity, Vyper
+- Version Management: git, Jira, Trello
+
+If it seems like a good fit, we’ll schedule a call to talk.
+
+Thank you
+Lucas Chi.
+//////////////////////////////////
+Hi there.
+
+I can see you’re looking for frontend-developer.
+I can help you with this and I can start right away.
+Even though I’m a relatively new freelancer on Upwork, I’m skilled, dedicated, and work professionally.
+I stay in consistent communication with my clients and always meet deadlines.
+If it seems like a good fit, we’ll schedule a call to talk.
+
+Thank you.
+Lucas Chi.
+/////////////////
+Dear Tim
+
+I can see you’re looking for a JS/Node expert.
+I have enough experience to catch bugs and I can help you with this.
+I stay in consistent communication with my clients and always meet deadlines.
+If it seems like a good fit, we’ll schedule a call to talk.
+
+Thank you.
+Lucas Chi.

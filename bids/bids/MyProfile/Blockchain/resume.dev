@@ -1,0 +1,71 @@
+
+    professional: Blockchain developer,
+            overview: Resourceful Blockchain Developer with 10 years of experience in software engineering. Co-founded ConanSwap, a DEX with 20,000 active supporters. Mastered JavaScript, Golang, and Python. Extensive knowledge in smart contracts, consensus algorithms, and data structures. Looking for a job as a Blockchain Developer that will allow me to build the financial system of tomorrow.,
+            country: Canada,
+            hourRate: 30,
+            workXP:
+                
+            company: IdeaSoft,
+            role: Blockchain Developer,
+            description:
+                Closely collaborated with the product and dev teams to improve the efficiency of the platform by 25%,
+                Built 5 reusable cross-chain libraries,
+                Participated in the development of 3 new tools and integrated them into the platform,
+                Assisted in developing the backend that became the foundation for the intersection between Web3 and FinTech,
+                Participated in 5+ open source community projects, met with stakeholders, and mentored and tutored 3 junior developers
+            ,
+            start: 2020.4,
+            end: 2023.10        
+            company:  Roonyx,
+            role: Blockchain  Developer,
+            description:
+                Developed 16 decentralized social media web applications using React, CSS, Bootstrap, and web3.js/Ethers for integrating Ethereum.,
+                Reduced costs by 40% using an Ethereum smart contract to automate supply chain management processes.,
+                Built a private blockchain using Hyperledger Fabric 1.0 that enhanced data security and reduced risk exposure by 93%.,
+                Created and launched 12 decentralized applications based on RW’s $150M daily transaction using Ethereum’s smart contracts.,
+            ,
+            start: 2019.3,
+            end: 2020.3
+        ,
+
+            company: UL Solutions,
+            role: Blockchain Developer,
+            description:
+                Developing DApps using HTML, CSS, ReactJS, NodeJS, JavaScript,
+                Coding smart contracts with solidity programing,
+                Running personal Blockchain for ethereum development using Ganache and Truffle Develop,
+                Providing secured data provenance in Healthcare,
+                Developing functional solutions in exchanging sensitive health records implementing Blockchain.,
+                Developing condition-based contracts using solidity and deploying smart contracts in Testrpc
+            ,
+            start: 2018.5,
+            end: 2019.2
+        ,
+    ,
+    education:
+        
+            university: University of Ottawa,
+            country: Canada,
+            degree: Bachelor of Computer Science
+            field: Computer Science,
+            start: 2015,
+            end: 2018
+        
+    ,
+    languages:,
+    skills:
+        DApp, Web3, Solidity, Bitcoin, Ethereum, HTML, CSS, JavaScript, Node.js, JSON, Github
+    ,
+    services:
+        Web Development,
+        Blockchain course,
+        Marketplace Development
+    ,
+
+        street: Bronson Street,
+        zipcode: 54612,
+        city: Ottawa,
+        location: Canada,
+        phone:  +1 (343) 555-2109,
+        avatar: iceolaf.png,
+        birth: 1998-12-30

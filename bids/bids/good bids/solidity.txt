@@ -1,0 +1,16 @@
+Dear Client,
+Don't waste your time on other freelancers and autobidders.
+
+I'm a Senior developer with 4 years of experience with Solidity, Truffle, Web3.js, Defi, Node.js, React.js, Angular, PHP/Laravel, JQuery, CSS/SCSS and more.
+
+Last year I started to work with Solidity and helped to launch various ICO products and created a bunch of smart contracts.
+I am also familiar with Fantom.
+I also have many experience of minting NFT so I think I am a most suitable one for you 
+
+I can help you with writing smart contracts (ICO - ERC20 Token, dApps) on the Ethereum platform, automated testing, deploying, and upgrading them, and integrating with your backend and frontend code.
+
+I'm experienced in writing complex tests and deployment scripts. I can also handle various node tasks, Ethereum and Bitcoin/Altcoin, from automated creating and watching accounts to handling payments to full-scale payment solutions and cryptoexchange integrations.
+
+I'm very detail oriented and thrive on tackling new challenges. I hope to help you achieve your goals by making your websites and applications the best they more.
+
+For more information, skills, and projects history feel free to ping me:)

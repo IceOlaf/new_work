@@ -1,0 +1,31 @@
+Hello there,
+I would be glad to start working on this project immediately.
+1. I can deliver the project within the required timeframe
+2. I am flexible with my working hours and do extra work if needed
+3. I have worked on similar projects before and I have had high customers’ feedback
+I am a senior developer with more than 5 years in the industry. I have the ability to take extreme ownership over the work, deep knowledge of JavaScript, CSS, HTML, and front-end languages, a good understanding of progressive web applications, Node.js, and UI/UX improvements. Moreover, I have a meticulous eye for details and a concentrated focus on clients' experiences. My approach to projects is fast, flexible, and professional.
+I have built several projects with React(Function Component and Hooks), TypeScript and also familiar with UnitTest(Jest, Mocha, Chai)
+On my latest projects I have:
+1. Developed and implemented user interface components using React.js, TypeScript, Node
+2. Profiled and improved front-end performance
+3. Designed and built modern user interface components with the framework of React Bootstrap, React Material UI, Styled Component
+4. Used workflows such as Redux, Flux, and Webpack
+5. Troubleshoot interface software, and debugged application codes
+6. Developed and implemented front-end architecture to support user interface concepts
+7. Worked with modern authorization mechanisms, such as JSON Web Token
+8. Used Photoshop, Illustrator, Figma, OmniGraffle, or other visual design and wire-framing tools
+9. Used Git, Bitbucket as codebase versioning tools.
+
+Please check my past URLs
+https://www.modusclosing.com/landing
+https://www.modusclosing.com/login
+http://www.arttracks.com/
+https://cosynd-beta-staging.herokuapp.com/
+http://demos.solvers.io/solvers/hunt-webapp/login
+What you receive:
+1. Clean professional code with proper explanations if necessary
+2. Two rounds of revision
+3. Delivery on the agreed date
+(I guarantee Design & Development & QA & Launch)
+Let’s have an interview to discuss the project more and see if we are a good fit to work together!
+Best

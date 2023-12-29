@@ -1,0 +1,21 @@
+Thank you for your opportunity.
+Here is an expert with high skill of react.js and web development.
+I have read your description carefully and I am very interesteded in your job.
+I can create the best quality website that can turn your idea into real.
+You will save your time and money when you hire me and will be happy with my result.
+I can complete your job perfectly.
+As Frameworks, Ant Design, Material UI, Material Design, React Bootstrap,Grommet, ReactMD 
+With a contract in place both parties will be more prone to finish project,
+and get a excellent results, I am sure.
+
+Please let us discuss more detail on live chat.
+I can start work immediately.
+I sincerly hope that you will take a minute to check about my bid.
+Looking forward your reply.
+
+Thanks a million. See you soon again.
+
+
+----------------------------------------------------------
+P.S:The most interesting thing about React is everything is the components, mean we can reuse and also, this component can be rendered base on state. I dont like the life cycle of React, quite complicated to make full control.
+About the ref, I used it one times. I did the validation form and use ref. This case is using third party DOM element's attributes

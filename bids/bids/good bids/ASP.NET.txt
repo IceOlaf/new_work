@@ -1,0 +1,23 @@
+Hello, there. After reading your description of Job, I ensure I am a perfect fit for this position.
+As you can see my profile, I have extensive knowledge and rich experience in developing ASP.Net Core / MVC and React.JS from the results that I have 5+ years of experience.
+Here are my skillset for this position:
+
+• Strong C#, ASP.NET Core / MVC, and MS SQL Server skills
+• Neat Web UI Design with JQuery, React.JS and Material-UI, AntD
+• Strong software engineering fundamentals, including data
+• Ability to deliver the best patterns and practices to solutions in a fast-paced environment.
+• Excellent verbal communication skills.
+
+Here are my last works:
+
+http://drmonga.uveous.in (Doctors Appointment booking system )
+http://assessment.uveoustech.com/ (.NET Core 3.1 Mutli-Tenante CRM for Child Health Assessment)
+https://crm.clear-peoplesafe.com.au/
+http://rakata.topmanufacturingerp.com/ (Blazor and syncfusion control)
+http://bts.uveoustech.com/ (Blazor WASM using Syncfusion)
+https://www.gopanache.com/
+I strive to create neat architecture and smart implementation is always promised.
+I have a flexible work schedule and will be available whenever possible.
+I take pride in my work and in seeing my work benefits my clients.
+Give me the opportunity to show you what I can do for you.
+Best Regards,

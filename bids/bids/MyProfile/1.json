@@ -1,0 +1,91 @@
+{
+    "first_name": "William",
+    "last_name": "Stewart",
+    "professional": "Full-stack developer",
+    "overview": "As a full-stack developer, I have been collaborating with a variety of companies including small startups and big communities, which has made him intimately familiar with all the stages of the web lifecycle from the initial architecture to final deployment. Over the past six years, he solved many complex and technical problems with his strong logic and creativity. I communicate complex ideas clearly and accurately and work well in teams of all sizes.",
+    "country": "US",
+    "hourRate": "100",
+    "workXP": [
+        {
+            "company": "Paul Bauder GmbH",
+            "role": "Full-stack Developer",
+            "description": [
+                "Worked as a senior computer vision engineer as the virtual ring environment project, car speed and condition monitoring program on the highway, and so on.",
+                "Set up the testing environment with Jest and Enzyme in the front-end and ensured it was stable with over 90% test coverage",
+                "Worked as a senior AI engineer, focused developing Python, Django, React.js projects.",
+                "Implemented importing resources from various kinds of databases like PostgreSQL, MongoDB, etc."
+            ],
+            "start": "2020.6",
+            "end": "2023.10"
+        },
+        {
+            "company": "Roonyx",
+            "role": "Full-stack and AI developer",
+            "description": [
+                
+                "Worked as a junior python developer, focused developing the GUI design, algorithm implement, data processing, and so on.",
+                "Developed over 30 models for data processing with Deep Learning, ML such as OCR,OMR, coin prediction, and object classification.",
+                "Implemented importing resources from various kinds of databases like PostgreSQL, MongoDB, etc.",
+                "Set up docker infrastructure for the back-end projects",
+                "Worked as a senior DL engineer, I had developed the face swap project.",
+                "Contributed to technical discussions and offered creative solutions to enhance the user experience and functionality of the Dapps."
+            ],
+            "start": "2019.3",
+            "end": "2020.3"
+        },
+        {
+            "company": "UL Solutions",
+            "role": "Full-stack Developer",
+            "description": [
+                "Worked as a senior software engineer with Django and React.js for front-end development and Django for back-end development.",
+                "Collaborated with the product owner, marketing team, and designer to clarify requirements.",
+                "Customized Bootstrap variables and configurations based on designer’s style guide.",
+                "Developed a Blood Bank website backend using Django.",
+                "Developed a Student Attendance rate Management project.",
+                "Use the Elastic Search engine to improve the backend solution."
+
+            ],
+            "start": "2018.5",
+            "end": "2019.2"
+        }
+    ],
+    "education": [
+        {
+            "university": "University of Ottawa",
+            "country": "Canada",
+            "degree": "Bachelor of Computer Science (BCompSc)",
+            "field": "Computer Science",
+            "start": "2015",
+            "end": "2018"
+        }
+    ],
+    "languages": [],
+    "skills": [
+        "HTML5",
+        "Bootstrap",
+        "WordPress",
+        "TypeScript",
+        "Django",
+        "Vue",
+        "Angular",
+        "Svelte",
+        "Flask",
+        "Flutter",
+        "React",
+        "DApp",
+        "JavaScript",
+        "Node.js"
+    ],
+    "services": [
+        "Web Development",
+        "AI & Machine Learning",
+        "Ecommerce Development"
+    ],
+    "street": "Nickel Road",
+    "zipcode": "38060",
+    "city": "OAKLAND",
+    "location": "US",
+    "phone": "+1 423-528-3097",
+    "avatar": "william.png",
+    "birth": "1998-12-30"
+}

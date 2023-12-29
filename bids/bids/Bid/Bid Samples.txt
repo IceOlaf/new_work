@@ -1,0 +1,141 @@
+Hi. I just read your job posting and it sounds like you need ___ .
+...
+I have a background in web developing and have been doing this for 5 years.
+I’d be curious to hear if you’ve tried ___. I recently implemented that with another client and the result was ___.
+
+I can work with you to develop projects, recommend the best technologies for you to use, and more.
+If it seems like a good fit, we’ll schedule a call to talk.
+
+well-versed
+URLs:
+https://www.orbitswap.finance/  =================      React, styled-component
+NFT Site---------https://app.nonfungibleapes.wtf/
+defi.instadapp.io =================        Vue,Nuxt
+https://wavesducks.com ==============       React
+https://collectorsmint-e3d36.web.app/  =====React
+https://luckylemurs.com/ =================  React
+http://maui.finance
+/////////////////////////////////////////////////////////
+Respected,
+
+I’m applying to your job post because I’m currently looking for a new project. As a web developer, I worked for agencies that needed website. In that way, I’ve got experience in developing products and promotional websites. 
+
+
+///////////////////////////////////////////////////////////// Blockchain
+Hi there.
+
+I am a blockchain engineer who has deep knowledge of Rust, Terra, Go, Cosmwasm, solidity, Web3.js, and terra.js, and I have much experience in several blockchain projects such as Defi, dex, NFT, and so on. So it makes me a strong candidate for your job. 
+I can help you in all parts of your blockchain project.
+
+Recently, I implemented a dex project using pancakeswap and the result is "https://thesphynx.co".
+You can check a uploaded picture to make sure my result.
+
+My Skills:
+ - Languages: JavaScript, Node.js,TypeScript, ES6, C/C++, PHP, Python, Rust, golang 
+- Frameworks: React, Next, Vue, Nuxt, Angular, Django, Express 
+- Blockchain: ERC20/721/1155, Several APIs, Solidity, Vyper 
+- Version Management: git, Jira, Trello 
+
+I can work with you to develop projects, recommend the best technologies for you to use, and more.
+If it seems like a good fit, we’ll schedule a call to talk.
+
+Thank you.
+Lucas Chi.
+
+/////////////////////
+Knowledge of alternative languages like Python
+
+
+ 
+Developed the test cases for cross browser testing, and assisted in the QA Engineering process.
+
+
+Dear Joel.
+
+I just read your job posting and your product sounds like it has a lot of potentials based on my initial research, and I’m excited to learn more about your exact needs.
+I am a full stack developer, but also a blockchain engineer who has deep knowledge of Rust, Terra, Go, Cosmwasm, solidity, Web3.js, and terra.js, and I have much experience in Defi-related projects.
+So it makes me a strong candidate for your job. 
+Totally, I have all experiences what you require.
+If it seems like a good fit, we’ll schedule a call to talk.
+
+My skils:
+- Languages: JavaScript, Node.js,TypeScript, ES6, C/C++, PHP, Python, Rust, golang 
+- Frameworks: React, Next, Vue, Nuxt, Angular, Django, Express 
+- Blockchain: ERC20/721/1155, Several APIs, Solidity, Vyper ,NFT,Rust,
+- Version Management: git, Jira, Trello 
+
+You can check my last project here:
+https://orbitswap.finance/
+
+Regards.
+Lucas Chi.
+
+Dear Andrew.
+
+I just read your job posting and it is very interesting.
+As a web developer, I have a lot of experience in developing backend and frontend with MERN.
+So API integration, launching via Firebase and GraphQL is not difficult.
+
+I am also a talented gamer (especially in dota) and a member of my SENIOR team.
+
+If it seems like a good fit, we’ll schedule a call to talk.
+
+Thank you.
+Rimsky Chen.
+Please share me your recent MERN experience
+I can show my project deployed via firebase.:https://maui-staging-c2a12.web.app/.
+Do you have any experience you can share of API integrations for data/stats?
+Yes, I have.
+Include a link to your GitHub profile and/or website
+https://github.com/VigorousDeveloper
+
+//////////////////////////////////////////////////////////////
+Hi there,
+
+I have read initial brief & interested to develop your ReactJS Application but I really need more detailed requirements or can you list down all the high level features in a document to estimate it precisely.
+
+React is very latest and fast technology, so there are lot of advantage of using this technology.
+
+This is the latest ReactJS project: [login to view URL]
+
+Look forward to hearing from you.
+
+Regards,
+YK
+LEADconcept
+/////////////////////////////////////////////////////////////////////
+Hello
+I'm a web developer with over 7 years experience. I would like to discuss further this project because I have a lot of experience with React.js/Redux and also Javascript.
+Especially, I have 3 years experience at team leader, have experience with requirements collection from client then create plan for team, suggest good features for products, control the logic of system and manage a team.
+I implemented a lot of projects and the results are
+-https://maui2-frontend.web.app/
+-thesphynx.co
+-https://www.orbitswap.finance/
+I believe with all of things I learned and worked, I will quickly adapt to the requirements of the job and execute the policies and regulations of your job.
+I look forward to hearing from you.
+Thank you
+Bikas
+//////////////////////////////////////////////////////////////////////////
+Thank you for your opportunity.
+Here is an expert with high skill of react.js and web development.
+I have read your description carefully and I am very interesteded in your job.
+I can create the best quality website that can turn your idea into real.
+You will save your time and money when you hire me and will be happy with my result.
+I can complete your job perfectly.
+
+Please let us discuss more detail on live chat.
+I can start work immediately.
+
+Looking forward your reply.
+Thanks.
+/////////////////////////////////////////////////////////////////////
+I had full experiences in react.js, react native.
+About this, i can build any whole sites with react js and vue js and redux,node js including middleware and sass integration.
+As Frameworks, Ant Design, Material UI, Material Design, React Bootstrap,Grommet, ReactMD 
+With a contract in place both parties will be more prone to finish project,
+and get a excellent results, I am sure.
+I sincerly hope that you will take a minute to check about my bid.
+Thanks a million. See you soon again.
+----------------------------------------------------------
+The most interesting thing about React is everything is the components, mean we can reuse and also, this component can be rendered base on state. I dont like the life cycle of React, quite complicated to make full control.
+About the ref, I used it one times. I did the validation form and use ref. This case is using third party DOM element's attributes

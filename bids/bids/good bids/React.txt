@@ -1,0 +1,31 @@
+Dear Sir,
+I am a dedicated and talented Full stack(MERN,MEVN) developer with an experience of more than 7+ years in creating and customizing React.js/Node.js web front-end and back-end and API Integration as well. My expertise is in providing high-quality Drag and Drop User-Friendly UI/Material Design and coding in a very short amount of time. I am very confident of your project because my just previous project is almost same with yours. I also have experience in API integration with Node.js /back development with PHP/CI/Node.js, I can integrate any kind of 3rd party API and payment gateway/SMS gateway/video/audio chat, I have done about 80+ React.js web development and executed successfully has done.
+If you hire me, I can do your job more greatly based on my experience.
+I don't know if you believe me, but if we work together, you will never be disappointed and you will trust me. We can be great partners.I think you are a great person who can see talent.
+
+I am well equipped in -
+- Drag and Drop User-Friendly UI
+- Customize Components With CSS
+- Use Charts to Display Data.
+- Build Bootstrap-Looking Websites.
+- Use Google's Material Design.
+- Realtime Database (Store and sync remote data)
+- Firebase Authentication
+- Google Maps integration
+- Push Notifications
+- MySQL/Mongo DB
+- Firebase security rule
+
+As far as the job is concerned, I am a professional React Native (Hybrid App) developer with more than 7+ years of experience in building and customizing React Native apps front-end and back-end.
+
+Few links from my React.js/Next.js portfolio:
+
+https://bookertee.com/(React.Js)
+www.nokelstv.com (React.Js)
+https://krustty.com/ (Next.Js)
+https://abbypages.com/home (React.Js)
+https://ifscquote.com/ (Vue.js)
+https://www.afritickets.com/ (Vue.js)
+http://appsninjas.com/ (React.js)
+
+Best Regards
